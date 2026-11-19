@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">tec-demo logo</title>
+  <desc id="desc">A blue and teal geometric mark forming the letter T.</desc>
+  <defs>
+    <linearGradient id="mark-gradient" x1="32" y1="32" x2="224" y2="224" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="#0F172A"/>
+  <path fill="url(#mark-gradient)" d="M48 56h160v40h-60v104h-40V96H48V56Z"/>
+  <circle cx="188" cy="176" r="20" fill="#F8FAFC"/>
+</svg>
